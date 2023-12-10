@@ -1,0 +1,14 @@
+C:\Users\jsalc\source\repos\BiWeeklyBudgetApp1\BiWeeklyBudgetApp1\bin\Debug\net8.0\BiWeeklyBudgetApp1.exe
+C:\Users\jsalc\source\repos\BiWeeklyBudgetApp1\BiWeeklyBudgetApp1\bin\Debug\net8.0\BiWeeklyBudgetApp1.deps.json
+C:\Users\jsalc\source\repos\BiWeeklyBudgetApp1\BiWeeklyBudgetApp1\bin\Debug\net8.0\BiWeeklyBudgetApp1.runtimeconfig.json
+C:\Users\jsalc\source\repos\BiWeeklyBudgetApp1\BiWeeklyBudgetApp1\bin\Debug\net8.0\BiWeeklyBudgetApp1.dll
+C:\Users\jsalc\source\repos\BiWeeklyBudgetApp1\BiWeeklyBudgetApp1\bin\Debug\net8.0\BiWeeklyBudgetApp1.pdb
+C:\Users\jsalc\source\repos\BiWeeklyBudgetApp1\BiWeeklyBudgetApp1\obj\Debug\net8.0\BiWeeklyBudgetApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jsalc\source\repos\BiWeeklyBudgetApp1\BiWeeklyBudgetApp1\obj\Debug\net8.0\BiWeeklyBudgetApp1.AssemblyInfoInputs.cache
+C:\Users\jsalc\source\repos\BiWeeklyBudgetApp1\BiWeeklyBudgetApp1\obj\Debug\net8.0\BiWeeklyBudgetApp1.AssemblyInfo.cs
+C:\Users\jsalc\source\repos\BiWeeklyBudgetApp1\BiWeeklyBudgetApp1\obj\Debug\net8.0\BiWeeklyBudgetApp1.csproj.CoreCompileInputs.cache
+C:\Users\jsalc\source\repos\BiWeeklyBudgetApp1\BiWeeklyBudgetApp1\obj\Debug\net8.0\BiWeeklyBudgetApp1.dll
+C:\Users\jsalc\source\repos\BiWeeklyBudgetApp1\BiWeeklyBudgetApp1\obj\Debug\net8.0\refint\BiWeeklyBudgetApp1.dll
+C:\Users\jsalc\source\repos\BiWeeklyBudgetApp1\BiWeeklyBudgetApp1\obj\Debug\net8.0\BiWeeklyBudgetApp1.pdb
+C:\Users\jsalc\source\repos\BiWeeklyBudgetApp1\BiWeeklyBudgetApp1\obj\Debug\net8.0\BiWeeklyBudgetApp1.genruntimeconfig.cache
+C:\Users\jsalc\source\repos\BiWeeklyBudgetApp1\BiWeeklyBudgetApp1\obj\Debug\net8.0\ref\BiWeeklyBudgetApp1.dll
